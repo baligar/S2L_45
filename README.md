@@ -1,14 +1,11 @@
-## ADDRESSING CHALLENGES IN ACOUSTIC EVENT DETECTION IN REAL WORLD DEPLOYMENT WHILE REDUCING FALSE POSITIVES
+## SOUNDSCAPES TO LANDSCAPES (S2L) DATASET
 
-In this work, we aim to reduce False Postives (FPs) in Acoustic Event Detection(AED) task while evaluating on 2-sec Regios of Interest (RoIs) as well as 1-min Golden Validation Clips - al from the the Soundscapes2Landscapes (S2L) dataset we introduce in the paper.
-
-
-### S2L_45 Dataset 
-The **S2L_45** dataset  was created as a part of a larger effort of monitoring biodiversity through the [Soundscapes2Landscapes (S2L)](https://soundscapes2landscapes.org/) project. The project seeks to advance animal biodiversity monitoring by making use of Earth-observing satellites. The availability of inexpensive MEMS sound recorders that capture audio of sufficient quality has made possible the scaling of research from single locations and organism, to full animal communities across landscapes. Indeed, the broad geographic scale of the Soundscapes to Landscapes (S2L) project is pioneering.
+### S2L_45 Dataset (07/06/2020)
+The **S2L_45** dataset was created as a part of a larger effort of monitoring biodiversity through the [Soundscapes2Landscapes (S2L)](https://soundscapes2landscapes.org/) project. The project seeks to advance animal biodiversity monitoring by making use of Earth-observing satellites. The availability of inexpensive MEMS sound recorders that capture audio of sufficient quality has made possible the scaling of research from single locations and organism, to full animal communities across landscapes. Indeed, the broad geographic scale of the Soundscapes to Landscapes (S2L) project is pioneering.
 
 The dataset consists of two parts:
-1. **ROI set** - Regions of Interests with labels are anotated by expert birders and bounded in time and frequency.
-1. **Golden Validation** (GV) set - One minute clips with minute-level coarse labeling of all the species present.
+1. **ROI set** - Regions of Interests with labels are annotated by expert birders and bounded in time and frequency.
+1. **Golden Validation** (GV) set - One-minute clips with minute-level coarse labeling of all the species present.
 
 * Number of Classes: **45**
 * Total Number of ROIs: **34,968**
@@ -67,3 +64,5 @@ Sr.No. | CLASS | ROIs | GV_instances | min_dur (sec) | max_dur (sec) | average_d
 44 | WIWA | 507 | 40 | 1.19 | 2.28 | 1.41 | 3915.6 | 8098.56
 45 | WREN | 617 | 30 | 2.09 | 2.92 | 2.37 | 1835.12 | 3580.26
 Total:||**34698**|**1655**|||||
+
+Classnames are Four-letter (English Name) Alpha Codes for Bird Species, in accordance with the 61st AOU Supplement (2020). More details: [The Institute for Bird Populations](https://www.birdpop.org/) and Species [List](https://www.birdpop.org/docs/misc/Alpha_codes_eng.pdf). 
