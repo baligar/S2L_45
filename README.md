@@ -66,3 +66,24 @@ Sr.No. | CLASS | ROIs | GV_instances | min_dur (sec) | max_dur (sec) | average_d
 Total:||**34698**|**1655**|||||
 
 Classnames are Four-letter (English Name) Alpha Codes for Bird Species, in accordance with the 61st AOU Supplement (2020). More details: [The Institute for Bird Populations](https://www.birdpop.org/) and Species [List](https://www.birdpop.org/docs/misc/Alpha_codes_eng.pdf). 
+
+
+## Download
+The dataset will be made available in Jan 2021.
+
+## Results
+### Baseline:
+> ADDRESSING CHALLENGES IN ACOUSTIC EVENT DETECTION IN REAL WORLD DEPLOYMENT WHILE REDUCING FALSE POSITIVES
+> <img src="https://github.com/baligar/S2L_45/blob/main/images/Table_2_updated.PNG" width="600">
+
+
+
+## Licence
+
+## Citing
+
+
+
+
+
+
