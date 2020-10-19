@@ -80,8 +80,7 @@ The dataset will be made available in Jan 2021.
 
 
 ## Licence
-
-## Citing
+ [MIT Licence](https://github.com/baligar/S2L_45/blob/main/LICENSE) 
 
 
 
