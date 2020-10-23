@@ -69,8 +69,7 @@ Classnames are Four-letter (English Name) Alpha Codes for Bird Species, in accor
 
 
 ## Download
-The dataset will be made available in Jan 2021.
-
+The dataset will be made available soon.
 ## Results
 ### Baseline:
 > ADDRESSING CHALLENGES IN ACOUSTIC EVENT DETECTION IN REAL WORLD DEPLOYMENT WHILE REDUCING FALSE POSITIVES
