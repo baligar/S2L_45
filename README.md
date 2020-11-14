@@ -74,7 +74,7 @@ The dataset will be made available soon.
 ### Baseline:
 > ADDRESSING CHALLENGES IN ACOUSTIC EVENT DETECTION IN REAL WORLD DEPLOYMENT WHILE REDUCING FALSE POSITIVES
 
-> <img src="https://github.com/baligar/S2L_45/blob/main/images/Table_2_updated.PNG" width="600">
+> <img src="https://github.com/baligar/S2L_45/blob/main/images/Table_1_21Oct_SB.PNG" width="600">
 
 
 
