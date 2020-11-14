@@ -72,7 +72,7 @@ Classnames are Four-letter (English Name) Alpha Codes for Bird Species, in accor
 The dataset will be made available soon.
 ## Results
 ### Baseline:
-> ADDRESSING CHALLENGES IN ACOUSTIC EVENT DETECTION IN REAL WORLD DEPLOYMENT WHILE REDUCING FALSE POSITIVES
+> DIMENSIONS OF EXPERTS FOR REAL WORLD ACOUSTIC EVENT DETECTION USING CONVOLUTIONAL NEURAL NETWORKS
 
 > <img src="https://github.com/baligar/S2L_45/blob/main/images/Table_1_21Oct_SB.PNG" width="600">
 
