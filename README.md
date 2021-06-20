@@ -1,6 +1,6 @@
 ## SOUNDSCAPES TO LANDSCAPES (S2L) DATASET
 
-### S2L_45 Dataset (07/06/2020)
+### S2L_45 Dataset (06/06/2021)
 <img src="https://github.com/baligar/S2L_45/blob/main/images/val_ROIs_wo_aug.png" width="600">
 
 The **S2L_45** dataset was created as a part of a larger effort of monitoring biodiversity through the [Soundscapes2Landscapes (S2L)](https://soundscapes2landscapes.org/) project. The project seeks to advance animal biodiversity monitoring by making use of Earth-observing satellites. The availability of inexpensive MEMS sound recorders that capture audio of sufficient quality has made possible the scaling of research from single locations and organism, to full animal communities across landscapes. Indeed, the broad geographic scale of the Soundscapes to Landscapes (S2L) project is pioneering.
