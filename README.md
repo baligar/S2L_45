@@ -71,7 +71,7 @@ Classnames are Four-letter (English Name) Alpha Codes for Bird Species, in accor
 
 
 ## Download
-The dataset will be made available soon.
+The dataset will be made public soon.
 ## Results
 ### Baseline:
 > <img src="https://github.com/baligar/S2L_45/blob/main/images/Table_1_21Oct_SB.PNG" width="600">
